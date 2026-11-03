@@ -1,4 +1,4 @@
-# Hi, I'm Shahrukh, and I'm a web developer.
+# Hi, I'm Shoxrux, and I'm a web developer.
 
 ## Frameworks
 ![NEXT.JS](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
